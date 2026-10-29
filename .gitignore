@@ -1,0 +1,34 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.vite/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+.aws/
+
+# Local agent/browser state
+.agents/
+.codex/
+.agent-browser/
+playwright-report/
+test-results/
+
+# Logs, temporary files, and editor/OS metadata
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local inspection screenshots
+*-preview.png

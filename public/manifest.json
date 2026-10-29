@@ -1,0 +1,9 @@
+{
+  "name": "EPIC WAR LIVE 3D: Kingdom vs Monsters",
+  "short_name": "Epic War 3D",
+  "start_url": "/?obs=true&slave=1&tiktok=velofit.id",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#09070e",
+  "theme_color": "#09070e"
+}
